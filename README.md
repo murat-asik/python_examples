@@ -66,15 +66,7 @@ Stabil oyun deneyimi
 
 Kararlı hız dengesi
 
-📌 Gelecek Güncellemeler
 
-Leaderboard sistemi
-
-Power-up geliştirmeleri
-
-Mobil optimizasyon
-
-Yeni oyun modları
 
 🤝 Katkı
 
